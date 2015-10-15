@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>56EE4459-A700-4CE8-B5DD-D94005398B6D</string>
+	<string>7A34456A-A016-46EA-8CF7-F7F5D82E775A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Playground</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>00AA363DA43F9636ABC29F317E5DEBAEFE404169</key>
 		<string>https://github.com/sourcebits-bijaya/iOS-Assignments.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Playground.playground</string>
+	<string>KVCO DEMO/KVCO DEMO.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>00AA363DA43F9636ABC29F317E5DEBAEFE404169</key>
-		<string>..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/sourcebits-bijaya/iOS-Assignments.git</string>

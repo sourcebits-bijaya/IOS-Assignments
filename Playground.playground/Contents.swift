@@ -3,16 +3,22 @@
 import UIKit
 
 
-var jar = [2,4,6,8]
+for var i = 5; i <= 50; i = i + 5 {
 
-jar.append(10)
+println(i)
+    
+}
 
-jar.removeAtIndex(3)
+var arr = [8,2,3,4,5,6,7]
 
-var rec = [ "name" : "BIJAYA", "age" : 25]
-var name = rec["name"]
+for x in arr {
 
-var age = "age"
+println(x)
 
-var jap = "My name is \(name!) and my age is \(rec[age]!)"
+}
 
+for (index, x) in enumerate(arr) {
+
+arr[index+1] = x
+    
+}
